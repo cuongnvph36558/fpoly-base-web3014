@@ -1,11 +1,11 @@
 <?php
 
-namespace Asus\FpolyBaseWeb3014\Controllers\Admin;
+namespace Cuong\Bai8\Controllers\Admin;
 
-use Asus\FpolyBaseWeb3014\Commons\Controller;
-use Asus\FpolyBaseWeb3014\Commons\Helper;
-use Asus\FpolyBaseWeb3014\Models\Category;
-use Asus\FpolyBaseWeb3014\Models\Product;
+use Cuong\Bai8\Commons\Controller;
+use Cuong\Bai8\Commons\Helper;
+use Cuong\Bai8\Models\Category;
+use Cuong\Bai8\Models\Product;
 use Rakit\Validation\Validator;
 
 class ProductController extends Controller{

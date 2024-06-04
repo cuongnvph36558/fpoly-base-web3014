@@ -1,8 +1,8 @@
 <?php
  
- namespace Asus\FpolyBaseWeb3014\Models ;
+ namespace Cuong\Bai8\Models ;
 
-use Asus\FpolyBaseWeb3014\Commons\Model;
+use Cuong\Bai8\Commons\Model;
 
  class Category extends Model{
     protected string $tableName = 'categories';

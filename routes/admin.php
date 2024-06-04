@@ -1,7 +1,7 @@
 <?php
 
-use Asus\FpolyBaseWeb3014\Controllers\Admin\DashboardController;
-use Asus\FpolyBaseWeb3014\Controllers\Admin\ProductController;
+use Cuong\Bai8\Controllers\Admin\DashboardController;
+use Cuong\Bai8\Controllers\Admin\ProductController;
 
 $router->mount('/admin', function () use ($router) {
 

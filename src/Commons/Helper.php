@@ -1,6 +1,6 @@
 <?php
 
-namespace Asus\FpolyBaseWeb3014\Commons;
+namespace Cuong\Bai8\Commons;
 
 class Helper
 {

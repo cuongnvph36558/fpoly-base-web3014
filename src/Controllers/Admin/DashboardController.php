@@ -1,9 +1,9 @@
 <?php
 
 
-namespace Asus\FpolyBaseWeb3014\Controllers\Admin;
+namespace Cuong\Bai8\Controllers\Admin;
 
-use Asus\FpolyBaseWeb3014\Commons\Controller;
+use Cuong\Bai8\Commons\Controller;
 
 class DashboardController extends Controller
 {

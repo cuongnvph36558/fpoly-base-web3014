@@ -1,6 +1,6 @@
 <?php
 
-namespace Asus\FpolyBaseWeb3014\Commons;
+namespace Cuong\Bai8\Commons;
 
 use Doctrine\DBAL\Connection;
 use Doctrine\DBAL\DriverManager;

@@ -1,5 +1,5 @@
 <?php
 
-use Asus\FpolyBaseWeb3014\Controllers\Client\HomeController;
+use Cuong\Bai8\Controllers\Client\HomeController;
 
 $router->get( '/', HomeController::class . '@index');
